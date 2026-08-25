@@ -1,1 +1,2 @@
 This is file1.txt which contains some text.
+this file was updated in release branch
